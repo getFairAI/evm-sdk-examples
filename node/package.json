@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fairai/evm-sdk": "file:../..",
+    "@fairai/evm-sdk": "FAIR-Protocol/evm-sdk#main",
     "ci": "^2.3.0"
   }
 }
